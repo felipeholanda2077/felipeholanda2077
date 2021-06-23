@@ -1,4 +1,12 @@
-### Hi there, I'm [Felipe!](https://felipeholanda2077.github.io) 👋
+### Hi there,
+# I'm Felipe Holanda 👋
+
+<ul>
+  <li>Hi, I'm Felipe Holanda, a passionate self-taught FrontEnd developer from Brazil.
+  <li>I'm 17 years old and I'm in love with the programming area.
+</ul>
+
+## Connect with me :)
 
 <p><a href="https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/">
   <img aling="center" alt="Felipe-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
@@ -11,7 +19,6 @@
 <br />
 <br />
 
-Hi, I'm Felipe Holanda, a passionate self-taught FrontEnd developer from Brazil.
 
 ## My Skills 
 
