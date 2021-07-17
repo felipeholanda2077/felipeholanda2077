@@ -2,7 +2,7 @@
 # I'm Felipe Holanda 👋
 
 <ul>
-  <li>Hi, I'm Felipe Holanda, a passionate self-taught FrontEnd developer from Brazil.
+  <li>Hi, I'm Felipe Holanda, front-end programmer looking to learn more and more in the programming market
   <li>I'm 17 years old and I'm in love with the programming area.
 </ul>
 
