@@ -6,7 +6,6 @@
   <li>I'm 17 years old and I'm in love with the programming area.
 </ul>
 
-
 ## Connect with me :)
 
 <p><a href="https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/">
