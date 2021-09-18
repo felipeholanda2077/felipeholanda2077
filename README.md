@@ -17,7 +17,6 @@
 </a>
 
 <br />
-<br />
 
 ## My Skills 
 <div style="display: inline_block"><br>
