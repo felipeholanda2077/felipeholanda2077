@@ -10,8 +10,10 @@
 
 <p><a href="https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/">
   <img aling="center" alt="Felipe-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+  
   </a>
   </br>
+  
 <a href="https://www.facebook.com/felipe.holanda.3158">
   <img align="center" alt="Felipe-Fecebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" style="max-width:100%;">
 </a>
