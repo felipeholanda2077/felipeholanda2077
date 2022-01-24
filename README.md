@@ -3,7 +3,7 @@
 
 <ul>
   <li>Hi, I'm Felipe Holanda, programmer looking to learn more and more in the programming market.
-  <li>I'm 17 years old and I'm in love with the programming area.
+  <li>I'm 18 years old and I'm in love with the programming area.
 </ul>
 
 ## Connect with me :)
