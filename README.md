@@ -33,9 +33,6 @@
 
 </div>
 
-<br />
-<br />
-
 ## My tools
 <div style="display: inline_block"><br>
   <img align="center" alt="WINDOWS 10" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="max-width:100%;">
