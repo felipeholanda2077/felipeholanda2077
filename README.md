@@ -42,7 +42,7 @@
 
 ## My tools
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />" style="max-width:100%;">
+  <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width:100%;">
 </div>
 
 ## My Stats
