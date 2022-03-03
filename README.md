@@ -54,7 +54,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeholanda2077&show_icons=true&theme=dark)
   
-<div style="display: inline_block">
+<div style="width: 150px; display: inline_block">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeholanda2077&layout=compact&theme=dark)](https://github.com/felipeholanda2077/github-readme-stats)
 
