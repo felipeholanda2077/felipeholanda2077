@@ -7,7 +7,6 @@
 </ul>
 
 ## Connect with me :)
-<div style="display: inline_block"><br>
   
 <a href="https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/">
   <div style="display: inline_block">
@@ -15,7 +14,6 @@
   </div>
   
   </a>
-  </br>
   
 <a href="https://www.facebook.com/felipe.holanda.3158">
   <div style="display: inline_block">
