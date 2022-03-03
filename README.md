@@ -16,7 +16,7 @@
   </a>
   
 <a href="https://www.facebook.com/felipe.holanda.3158">
-  <div style="display: inline_block">
+  <div style="width: 150px; display: inline_block">
   <img align="center" alt="Felipe-Fecebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" style="max-width:100%;">
   </div>
 </a>
