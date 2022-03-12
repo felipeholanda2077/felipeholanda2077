@@ -6,7 +6,7 @@
   <li>I'm 18 years old and I'm in love with the programming area.
 </ul>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+ <IMG SRC=”https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477bh6opslr7qo6y8ajxno89u6kb0ml6etdigf5bwp&rid=giphy.gif&ct=g”>
 
 ## Connect with me :)
 
