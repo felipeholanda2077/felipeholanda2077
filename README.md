@@ -56,6 +56,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=felipeholanda2077&show_icons=true&theme=dark" />
 </a>
-<a align="right" href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeholanda2077&layout=compact&theme=dark" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeholanda2077&layout=compact&theme=dark" />
 </a>
