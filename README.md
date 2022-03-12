@@ -52,14 +52,10 @@
 
 
 ## My Stats
-  <div style="display: inline_block"><br>
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeholanda2077&show_icons=true&theme=dark)
-  
-<div align="right" style="width: 150px; display: inline_block">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeholanda2077&layout=compact&theme=dark)](https://github.com/felipeholanda2077/github-readme-stats)
-
-</div>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeholanda2077&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeholanda2077&layout=compact&theme=dark" />
+</a>
