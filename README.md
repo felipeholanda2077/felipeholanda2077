@@ -52,11 +52,10 @@
 
 
 ## My Stats
-<div align="center">>
+<div align="center">
 <a href="https://github.com/felipeholanda2077">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeholanda2077&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/felipeholanda2077">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeholanda2077&layout=compact&theme=dark" />
 </a>
  </div>
