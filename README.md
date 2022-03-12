@@ -34,6 +34,7 @@
 <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width:100%;">
 
 
+
 </div>
 
 ## My tools
@@ -45,6 +46,7 @@
   <img align="center" alt="Argular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width:100%;">
 <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width:100%;">
  <img align="center" alt="React JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;">
+  <img align="center" alt="PyCharm" height="30" width="40" src="https://img.icons8.com/color/48/000000/pycharm.png" style="max-width:100%;">
 </div>
 
 
