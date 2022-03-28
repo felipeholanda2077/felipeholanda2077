@@ -2,7 +2,7 @@
 # I'm Felipe Holanda 👋
 
 <ul>
-  <li>Hi, I'm Felipe Holanda, programmer looking to learn more and more in the programming market.
+  <li>Olá, prazer sou Felipe Holanda, programador em busca de aprender cada vez mais no mercado de programação.
   <li>I'm 18 years old and I'm in love with the programming area.
 </ul>
 
