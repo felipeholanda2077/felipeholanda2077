@@ -4,7 +4,7 @@
 
 <ul>
   <li>Hello, I'm Felipe Holanda, a programmer looking to learn more and more in the programming market.
-  <li>Tenho 18 anos e sou um entusiasta pela área de programação.
+  <li>I'm 18 years old and I'm passionate about programming.
 </ul>
 
  <img align="right" height="300" width="350" SRC="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477bh6opslr7qo6y8ajxno89u6kb0ml6etdigf5bwp&rid=giphy.gif&ct=g">
