@@ -43,10 +43,10 @@
   <img align="center" alt="VisualStudio" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;">
   <img align="center" alt=".NET" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;">
   <img align="center" alt="Argular" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width:100%;">
-<img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width:100%;">
- <img align="center" alt="React JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;">
-  <img align="center" alt="PyCharm" height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" style="max-width:100%;">
-  <img align="center" alt="NodeJs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
+<img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width:100%;">
+ <img align="center" alt="React JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;">
+  <img align="center" alt="PyCharm" height="40" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" style="max-width:100%;">
+  <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
   <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width:100%;">
 </div>
 
