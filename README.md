@@ -3,7 +3,7 @@
 <br>
 
 <ul>
-  <li>Olá, prazer sou Felipe Holanda, programador em busca de aprender cada vez mais no mercado de programação.
+  <li>Hello, I'm Felipe Holanda, a programmer looking to learn more and more in the programming market.
   <li>Tenho 18 anos e sou um entusiasta pela área de programação.
 </ul>
 
