@@ -1,6 +1,5 @@
 ### Hi there,
 # I'm Felipe Holanda 👋
-<br>
 
 <ul>
   <li>Hello, I'm Felipe Holanda, a programmer looking to learn more and more in the programming market.
