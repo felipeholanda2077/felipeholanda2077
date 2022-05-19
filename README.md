@@ -7,8 +7,7 @@
   <li>I'm 18 years old and I'm passionate about programming.
 </ul>
 
-<img align="left" height="300" width="350" src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif">
-                                                                            
+ <img align="right" alt="" height="300" width="350" src="https://media.giphy.com/media/ReImZejkBnqYU/giphy.gif">
 
 ## Connect with me :)
 
