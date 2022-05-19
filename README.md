@@ -7,7 +7,7 @@
   <li>I'm 18 years old and I'm passionate about programming.
 </ul>
 
- <img align="right" alt="" height="300" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477bh6opslr7qo6y8ajxno89u6kb0ml6etdigf5bwp&rid=giphy.gif&ct=g">
+ <img align="right" alt="" height="300" width="350" src="https://media-exp1.licdn.com/dms/image/C4D03AQGiEmMAlXxyTg/profile-displayphoto-shrink_800_800/0/1647900135191?e=1658361600&v=beta&t=NQ8lOO77Zjq7SHz_aWgr12KuezT2_DlqoYqDtF5UFrE">
 
 ## Connect with me :)
 
