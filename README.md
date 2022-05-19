@@ -7,7 +7,7 @@
   <li>I'm 18 years old and I'm passionate about programming.
 </ul>
 
-<img align="right" height="300" width="350" style="border-radius:50px;" src="">
+<img align="right" height="300" width="350" style="border-radius:50px;" src="https://giphy.com/gifs/glee-image-wiki-wvQIqJyNBOCjK">
 
 ## Connect with me :)
 
