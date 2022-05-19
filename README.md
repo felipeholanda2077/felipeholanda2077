@@ -7,7 +7,7 @@
   <li>I'm 18 years old and I'm passionate about programming.
 </ul>
 
-<img align="right" height="300" width="350" style="border-radius:50px;" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477bh6opslr7qo6y8ajxno89u6kb0ml6etdigf5bwp&rid=giphy.gif&ct=g">
+<img align="center" height="300" width="350" style="border-radius:50px;" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477bh6opslr7qo6y8ajxno89u6kb0ml6etdigf5bwp&rid=giphy.gif&ct=g">
 
 ## Connect with me :)
 
@@ -20,8 +20,6 @@
   <img alt="Felipe-Fecebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg">
   </div>
 </a>
-
-<img align="right" height="300" width="350" style="border-radius:50px;" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477bh6opslr7qo6y8ajxno89u6kb0ml6etdigf5bwp&rid=giphy.gif&ct=g">
 
 </div>
 
