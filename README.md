@@ -7,7 +7,7 @@
   <li>I'm 18 years old and I'm passionate about programming.
 </ul>
 
- <img align="right" alt="" height="300" width="350" src="https://static.vecteezy.com/ti/vetor-gratis/p1/2746042-programador-plano-cor-icone-computador-especialista-homem-codificacao-no-laptop-freelance-software-desenvolvedor-no-trabalho-pessoa-avatar-desenho-animado-estilo-clip-art-for-mobile-app-isolated-rgb-illustration-vetor.jpg">
+ <img align="right" alt="" height="300" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477bh6opslr7qo6y8ajxno89u6kb0ml6etdigf5bwp&rid=giphy.gif&ct=g">
 
 ## Connect with me :)
 
