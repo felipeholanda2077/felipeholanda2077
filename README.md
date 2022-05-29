@@ -7,7 +7,6 @@
   <li>I'm 18 years old and I'm passionate about programming.
 </ul>
 
-
  <img align="right" alt="Felipe-pic" height="300" width="300" style="border-radius:50px;" src="https://img.elo7.com.br/product/zoom/35E1F9F/placa-decorativa-nao-perturbe-programador-bebendo-cafe-developer.jpg">
 
 ## Connect with me :)
