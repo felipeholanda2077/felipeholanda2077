@@ -37,7 +37,6 @@
   
 </div>
 
-
 ## My tools
 <div style="display: inline_block"><br>
   <img align="center" alt="WINDOWS 10" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="max-width:100%;">
@@ -62,5 +61,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeholanda2077&layout=compact&theme=dark" />
 </a>
  </div>
-  
-  
