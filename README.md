@@ -14,7 +14,7 @@
 
 <div style="width: 150px; display: inline_block">
   
-<a href="https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/">
+<a href="https://www.linkedin.com/in/felipe-holanda-freitas/">
   <img aling="center" alt="Felipe-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
   
 <a href="https://www.facebook.com/felipe.holanda.3158">
