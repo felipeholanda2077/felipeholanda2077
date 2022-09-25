@@ -8,7 +8,7 @@
   <li>I'm 18 years old and I'm passionate about programming.
 </ul>
 
- <img align="right" alt="Felipe-pic" height="300" width="300" style="border-radius:50px;" src="https://img.elo7.com.br/product/zoom/35E1F9F/placa-decorativa-nao-perturbe-programador-bebendo-cafe-developer.jpg">
+ <img align="right" alt="Felipe-pic" height="300" width="300" style="border-radius:50px;" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
 ## Connect with me :)
 
