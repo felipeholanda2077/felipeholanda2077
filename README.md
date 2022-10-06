@@ -50,7 +50,8 @@
   <img align="center" alt="PyCharm" height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" style="max-width:100%;">
   <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
   <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width:100%;">
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="max-width:100%;">
+  <img align="center" alt="WordPass" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="max-width:100%;">
+  <img align="center" alt="Nextjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="max-width:100%;">
 </div>
 
 ## My Stats
