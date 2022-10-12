@@ -8,7 +8,7 @@
   <li>I'm 18 years old and I'm passionate about programming.
 </ul>
 
- <img align="right" alt="Felipe-pic" height="300" width="300" style="border-radius:50px;" src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+<img align="right" alt="Felipe-pic" height="300" width="300" style="border-radius:50px;" src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 
 ## Connect with me :)
 
