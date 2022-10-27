@@ -59,9 +59,9 @@
 ## My Stats
 <div align="center">
 <a href="https://github.com/felipeholanda2077">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeholanda2077&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <a href="https://github.com/felipeholanda2077">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeholanda2077&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
 </a>
   
   ![github-user-contribution](https://user-images.githubusercontent.com/79938668/198180856-c2d37d66-c677-42c3-b829-dee5458a86a7.svg)
