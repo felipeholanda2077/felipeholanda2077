@@ -55,7 +55,6 @@
   <img align="center" alt="Nextjs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="max-width:100%;">
 </div>
 
-
 ## My Stats
 <div align="center">
 <a href="https://github.com/felipeholanda2077">
