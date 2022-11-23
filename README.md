@@ -5,7 +5,7 @@
 <ul>
   <li>Felipe Holanda, a programmer looking to learn more and more in the programming market.
   <li>I am currently a Computer Science student at FMU - Faculdades Metropolitanas Unidas
-  <li>I'm 18 years old and I'm passionate about programming.
+  <li>I'm 19 years old and I'm passionate about programming.
 </ul>
 
 <img align="right" alt="Felipe-pic" height="300" width="300" style="border-radius:50px;" src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
