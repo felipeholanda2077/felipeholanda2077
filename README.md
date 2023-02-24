@@ -66,3 +66,27 @@
   
   ![github-user-contribution](https://user-images.githubusercontent.com/79938668/198180856-c2d37d66-c677-42c3-b829-dee5458a86a7.svg)
  </div>
+
+  
+  ## 🗃 Repositories
+  
+<div align=center>
+  <a href="https://github.com/felipeholanda2077/Project_Raster">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeholanda2077&repo=Project_Raster&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/felipeholanda2077/Portifolio_Next">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeholanda2077&repo=Portifolio_Next&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/felipeholanda2077/TicketHelp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeholanda2077&repo=TicketHelp&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/felipeholanda2077/Spotify-Clone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeholanda2077&repo=Spotify-Clone&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/felipeholanda2077/Bitcoin_BlockChain-API">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeholanda2077&repo=Bitcoin_BlockChain-API&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/felipeholanda2077/Pizza_App">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeholanda2077&repo=Pizza_App&theme=chartreuse-dark" />
+  </a>
+</div>
