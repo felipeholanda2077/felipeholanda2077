@@ -1,92 +1,37 @@
-![Header](https://user-images.githubusercontent.com/79938668/170407232-3c7618f7-18bd-4fff-885e-aba2bb59de3e.png)
+# Olá, eu sou o Felipe Holanda 👋
 
-<br>
+Desenvolvedor full-stack em São Paulo. Crio **apps mobile, sistemas web e automações com IA** para empresas — do protótipo ao app publicado.
 
-<ul>
-  <li>Felipe Holanda, a programmer looking to learn more and more in the programming market.
-  <li>I am currently a Computer Science student at FMU - Faculdades Metropolitanas Unidas
-  <li>I'm 21 years old and I'm passionate about programming.
-</ul>
+- 📱 **Apps mobile** com Expo / React Native e Capacitor
+- 🖥️ **Sistemas web** com React, Vite, Next.js e TypeScript
+- 🗄️ **Back-end** com Supabase (Postgres, Auth, Storage, Edge Functions) e Node.js
+- 🤖 **IA aplicada**: agentes de atendimento no WhatsApp, geração de conteúdo e automação de processos com Claude e OpenAI
+- 🔗 **Integrações**: WhatsApp (Meta Cloud API, Evolution API), CRMs, Microsoft 365, pagamentos
 
-<img align="right" alt="Felipe-pic" height="300" width="300" style="border-radius:50px;" src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+## O que eu construo
 
-## Connect with me :)
+| Tipo de projeto | Exemplos |
+| --- | --- |
+| Apps mobile | Editor de stories de viagem com modelos prontos, app de viagem com roteiros gerados por IA |
+| Sistemas internos | CRM, gestão de RH e contratação, cotações e orçamentos de obra, painéis de indicadores |
+| Atendimento com IA | Hub de WhatsApp que entende a mensagem e encaminha para o agente de IA certo |
+| Dados e mapas | Mapa de obras de construção civil a partir de dados abertos da Receita Federal |
 
-<div style="width: 150px; display: inline_block">
-  
-<a href="https://www.linkedin.com/in/felipe-holanda-freitas/">
-  <img aling="center" alt="Felipe-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-  
-<a href="https://www.facebook.com/felipe.holanda.3158">
-  <img alt="Felipe-Fecebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg">
-  </div>
-</a>
+> A maior parte dos projetos de clientes fica em repositórios privados.
 
+## Projetos em destaque
 
-</div>
+- **[Prospecta IA](https://github.com/felipeholanda2077/prospecta-ia)** — encontra empresas no Google Maps, analisa a presença digital de cada uma e escreve propostas personalizadas com IA. [Ver online](https://prospecta-ia-three.vercel.app)
+- **[Checklist de Obras](https://github.com/felipeholanda2077/checklist-obras)** — checklist para acompanhar etapas de obra. [Ver online](https://checklist-obras-two.vercel.app)
+- **[Arcane Forge](https://github.com/felipeholanda2077/sistema-forge-suite)** — plataforma full-stack em React, Node.js e MongoDB, pensada para virar solução white label. [Ver online](https://sistema-forge-suite.vercel.app)
 
-## My Skills 
-<div class="display: inline_block"><br>
-<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
-<img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
-<img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="max-width:100%;">
-<img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="max-width:100%;">
-<img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;">
-<img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width:100%;">
-<img align="center" alt="Python" height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png" style="max-width:100%;">
-<img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="max-width:100%;">
-  
-</div>
-<br>
+## Tecnologias
 
-## My tools
-<div style="display: inline_block"><br>
-  <img align="center" alt="WINDOWS 10" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="max-width:100%;">
-  <img align="center" alt="VSCODE" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width:100%;">
-  <img align="center" alt="AndroidStudio" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="max-width:100%;">
-  <img align="center" alt="VisualStudio" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;">
-  <img align="center" alt=".NET" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;">
-  <img align="center" alt="Argular" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width:100%;">
-<img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width:100%;">
- <img align="center" alt="React JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;">
-  <img align="center" alt="PyCharm" height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" style="max-width:100%;">
-  <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
-  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width:100%;">
-  <img align="center" alt="WordPass" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="max-width:100%;">
-  <img align="center" alt="Nextjs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="max-width:100%;">
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,supabase,postgres,tailwind,expo,flutter,python,cs,figma,vercel,git&perline=8" alt="Tecnologias" />
+</p>
 
-## My Stats
-<div align="center">
-<a href="https://github.com/felipeholanda2077">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeholanda2077&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<a href="https://github.com/felipeholanda2077">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeholanda2077&layout=compact&langs_count=7&theme=dark"/>
-</a>
-  
-  ![github-user-contribution](https://user-images.githubusercontent.com/79938668/198180856-c2d37d66-c677-42c3-b829-dee5458a86a7.svg)
- </div>
+## Contato
 
-  
-  ## 🗃 Repositories
-  
-<div align=center>
-  <a href="https://github.com/felipeholanda2077/Project_Raster">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeholanda2077&repo=Project_Raster&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/felipeholanda2077/Portifolio_Next">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeholanda2077&repo=Portifolio_Next&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/felipeholanda2077/TicketHelp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeholanda2077&repo=TicketHelp&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/felipeholanda2077/Spotify-Clone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeholanda2077&repo=Spotify-Clone&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/felipeholanda2077/Bitcoin_BlockChain-API">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeholanda2077&repo=Bitcoin_BlockChain-API&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/felipeholanda2077/Pizza_App">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipeholanda2077&repo=Pizza_App&theme=chartreuse-dark" />
-  </a>
-</div>
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-holanda-freitas/)
+- 🔗 [Todos os meus links](https://beacons.ai/felipeholanda)
